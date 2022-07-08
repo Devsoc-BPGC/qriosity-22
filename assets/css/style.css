@@ -6,3 +6,21 @@ html, body {
 .footer-default {
     margin-top: 30px;
 }
+.pyq{
+    padding :10px 25px;
+    
+    color: white;
+    background-color: rgba(4, 0, 255, 0.691);
+    border-radius: 8px;
+}
+.pyq:hover{
+box-shadow: 2px 1px 8px rgba(0, 0, 0, 0.579);
+}
+.gallery{
+        box-shadow: 2px 1px 8px rgba(0, 0, 0, 0.579);
+        margin:5px 10px;
+        transition-duration: 1s;
+}
+.gallery:hover{
+    opacity: 0.9;
+}
