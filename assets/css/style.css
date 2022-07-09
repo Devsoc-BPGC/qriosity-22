@@ -19,3 +19,11 @@ box-shadow: 2px 1px 8px rgba(0, 0, 0, 0.579);
 .gallery:hover{
     opacity: 0.9;
 }
+.background-video {
+    position: fixed;
+    z-index: -1;
+    right: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
